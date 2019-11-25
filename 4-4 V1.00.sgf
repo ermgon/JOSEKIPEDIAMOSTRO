@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[WebGoBoard:0.10.11]ST[2]SZ[19]KM[6.5]HA[0]PB[nEGRO]PW[Blanco];B[pd];MA[mc]W[qf](;B[nc]C[VARIANTE 4-4-A:
+
+];W[rd];B[qc];W[qi];B[dp];W[rc];MA[rg][rh][rf][re][sg][sf][se][sd][si][sh][ri][oc][ob][pb][nb][mb][lb][pc][pa][oa][ma][na][la][kb][dq][cq][cp][co][eq][cr][bq][dr][bp][br]B[kc]C[Opción 1:
+
+%% Puntos
+
+Negro obtiene 13 puntos visibles + Sente: Jugada en otra parte del tablero.
+En este caso D4 (sugerido por Josekipedia) - VER SUGERENCIA DE LEELA
+
+Blanco: Obtiene 11 puntos
+
+%% Winrate
+
+Leela:
+])(;B[mc]C[VARIANTE 4-4-B:];W[qc];B[qd];W[pc];B[od];W[oc];B[rd];W[nc];B[nd];W[mb];B[lc];W[lb];B[kc];LB[pi:A][oi:B][pj:C]TR[qf]W[kb]C[Se juega A, el resto deja que blanco escape];B[pi];W[qk];B[ok];W[qi];B[ph];W[qh];B[pg];W[pm];MA[nb][ob][pa][pb][oa][na][la][ma][rh][ri][sj][si][sh][rk][rl][sl][sk][oh][og][ng][ni][mg][mh][mf][me][md][ld][le][lf][lg][mi][nj][ke][kd][ne]B[jc]C[Opción 2:
+
+%% Puntos
+
+Negro obtiene 17 puntos visibles + Sente: K18 podría ser para mas desarrollo
+- VER SUGERENCIA DE LEELA
+
+Blanco: Obtiene 8 puntos en la esquina superior y 9 puntos en la parte derecha, aunque estos son seguros y no requiere mucho desarrollo
+
+%% Winrate
+
+Leela:]))
